@@ -49,3 +49,4 @@ For support, please open an issue in the repository.
 
 ## Acknowledgments
 - Thanks to all contributors and supporters of this project
+- Dark mode feature updated.
